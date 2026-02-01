@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+cards:
+  message: "Welcome to MoneyManager cards related PROD APIs"
+  contactDetails:
+    name: "Bhawesh Rawat - Backend Engineer"
+    email: "bhawesh.rawat@moneymanager.com"
+  onCallSupport:
+    - +91-98765-43210
+    - +91-91234-56789
+
+build:
+  version: "1.0"

@@ -1,0 +1,10 @@
+cards:
+  message: "Welcome to MoneyManager cards related QA APIs"
+  contactDetails:
+    name: "QA Support Team"
+    email: "qa-support@moneymanager.com"
+  onCallSupport:
+    - +91-90000-11111
+
+build:
+  version: "1.0-QA"

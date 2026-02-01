@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to MoneyManager accounts related local APIs "
+  contactDetails:
+    name: "Rohit Sharma - Developer"
+    email: "rohit@eazybank.com"
+  onCallSupport:
+    - (4545) 555-1234
+    - (4545) 523-1345

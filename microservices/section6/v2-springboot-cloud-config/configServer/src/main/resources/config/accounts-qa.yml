@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to MoneyManager accounts related local APIs "
+  contactDetails:
+    name: "Virat Kohli - Developer"
+    email: "virat@eazybank.com"
+  onCallSupport:
+    - (1818) 555-1234
+    - (1818) 523-1345
